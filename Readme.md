@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on for basic projects
 - 📫 How to reach me? You can reach me at kaushalaradhya789@gmail.com
-- 😄 Pronouns: his
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm a proud Indian and Hindu
 
 <!---
