@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm आराध्य कौशल (Aradhya Kaushal)</h1>
-<h3 align="center">A passionate full stack from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Sigma Web Dev Course**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **nothing**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 🤝 I’m looking for help with **Java and C++**
+- 🤝 I’m looking for help with **C++**
 
 - 💬 Ask me about **Python and Javascript**
 
